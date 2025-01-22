@@ -1,2 +1,10 @@
 *.agdai
 MAlonzo/**
+ticketclassification\venv\/
+ticketclassification/data/
+ticketclassification/models/
+ticketclassification/venv/
+ticketclassification/src/__pycache__/
+
+
+
